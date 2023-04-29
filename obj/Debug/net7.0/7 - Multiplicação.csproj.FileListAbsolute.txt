@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\7 - Multiplicação\bin\Debug\net7.0\7 - Multiplicação.exe
+C:\Users\plaud\Desktop\7 - Multiplicação\bin\Debug\net7.0\7 - Multiplicação.deps.json
+C:\Users\plaud\Desktop\7 - Multiplicação\bin\Debug\net7.0\7 - Multiplicação.runtimeconfig.json
+C:\Users\plaud\Desktop\7 - Multiplicação\bin\Debug\net7.0\7 - Multiplicação.dll
+C:\Users\plaud\Desktop\7 - Multiplicação\bin\Debug\net7.0\7 - Multiplicação.pdb
+C:\Users\plaud\Desktop\7 - Multiplicação\obj\Debug\net7.0\7 - Multiplicação.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\7 - Multiplicação\obj\Debug\net7.0\7 - Multiplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\7 - Multiplicação\obj\Debug\net7.0\7 - Multiplicação.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\7 - Multiplicação\obj\Debug\net7.0\7 - Multiplicação.AssemblyInfo.cs
+C:\Users\plaud\Desktop\7 - Multiplicação\obj\Debug\net7.0\7 - Multiplicação.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\7 - Multiplicação\obj\Debug\net7.0\7 - Multiplicação.dll
+C:\Users\plaud\Desktop\7 - Multiplicação\obj\Debug\net7.0\refint\7 - Multiplicação.dll
+C:\Users\plaud\Desktop\7 - Multiplicação\obj\Debug\net7.0\7 - Multiplicação.pdb
+C:\Users\plaud\Desktop\7 - Multiplicação\obj\Debug\net7.0\7 - Multiplicação.genruntimeconfig.cache
+C:\Users\plaud\Desktop\7 - Multiplicação\obj\Debug\net7.0\ref\7 - Multiplicação.dll
